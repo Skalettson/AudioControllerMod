@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="audiocontroller"
+version="${file_jarVersion}"
+displayName="Audio Controller"
+description='''
+Мод для управления кастомной музыкой в Minecraft.
+Позволяет добавлять свои треки, создавать плейлисты и заменять стандартную музыку игры.
+'''
+authors="skaletun"
+
+[[dependencies.audiocontroller]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.audiocontroller]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
