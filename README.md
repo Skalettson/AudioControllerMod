@@ -4,6 +4,8 @@
 
 **Автор:** skaletun
 
+Скачать с CurseForge [https://www.curseforge.com/minecraft/mc-mods/audiocontroller]
+
 ## Возможности
 
 - 🎵 Воспроизведение кастомных OGG файлов напрямую через LWJGL OpenAL
